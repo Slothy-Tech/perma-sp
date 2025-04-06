@@ -1,101 +1,135 @@
-<h1 align="center">Permanent HWID Spoofer: One-Time Setup, Lifetime Protection 🛡️</h1>
-<p align="center">The ultimate spoofing tool — permanently bypass hardware bans across all major games and anti-cheats.</p>
+<h1 align="center">Permanent HWID Spoofer: One-Time Setup, Lifetime Protection</h1>
+<p align="center">Bypass hardware bans in Fortnite, Rust, Warzone, Valorant, and more — permanently. One spoof = endless freedom.</p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status">
-    <img src="https://img.shields.io/badge/Spoofing-Type%3A%20Permanent-critical?style=flat-square" alt="Permanent Spoofer">
-    <img src="https://img.shields.io/badge/Anti%20Cheat%20Bypass-EAC%2C%20BE%2C%20Vanguard-blue?style=flat-square" alt="Anti Cheat Bypass">
-    <img src="https://img.shields.io/badge/Updated-Today-orange?style=flat-square" alt="Updated Today">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Spoofing-Permanent-critical?style=flat-square" />
+  <img src="https://img.shields.io/badge/Anti--Cheat-EAC%20%7C%20BE%20%7C%20Vanguard-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Updated-Today-orange?style=flat-square" />
 </p>
 
-<hr />
+---
 
-<h2>Permanent HWID Spoofer</h2>
-<p>Tired of reapplying spoofers after every restart? Our <strong>Permanent HWID Spoofer</strong> is designed for users who want a full, one-time solution to bypass hardware bans from games like Fortnite, Rust, Warzone, Valorant, and more. Once spoofed, your system stays clean — no need to rerun tools every session.</p>
+## 🧠 What is a Permanent HWID Spoofer?
 
-<h2>🔐 What Makes It Permanent?</h2>
-<p>Unlike temporary spoofers that reset after a reboot, our permanent spoofer modifies key hardware identifiers at a deeper level. This ensures that your new HWID persists across reboots, user sessions, and reinstalls.</p>
+A **Permanent HWID Spoofer** changes your system’s unique hardware identifiers at a low level — including your motherboard, BIOS, MAC, disk drives, and GPU info — so anti-cheats think you’re on a brand-new PC. Unlike temporary spoofers, it works across restarts, reinstalls, and Windows updates.
 
-<h2>🛠️ Features</h2>
-<ul>
-    <li><strong>One-Time Setup:</strong> Install once and you're done — spoofing stays active.</li>
-    <li><strong>Deep-Level Spoofing:</strong> Permanently changes motherboard ID, MAC address, disk serials, GPU ID, and more.</li>
-    <li><strong>Bypasses All Major Anti-Cheats:</strong> EAC, BattlEye, Vanguard, Ricochet, and more.</li>
-    <li><strong>Supports All Major Games:</strong> Fortnite, Rust, Warzone, Apex, Valorant, PUBG, etc.</li>
-    <li><strong>Safe and Reversible:</strong> Built-in restore point creation for easy undo if needed.</li>
-    <li><strong>Fully Offline:</strong> No internet required after setup. Spoof anytime, anywhere.</li>
-</ul>
+---
 
-<hr />
+## ⚙️ Key Features
 
-<h2>💎 Why Go Permanent?</h2>
-<ul>
-    <li><strong>Zero Maintenance:</strong> No need to spoof every time you reboot or launch a game.</li>
-    <li><strong>Undetectable:</strong> Deeper spoofing means reduced detection by advanced anti-cheat scanners.</li>
-    <li><strong>Faster Launches:</strong> Skip the setup process and get straight into the game.</li>
-    <li><strong>Less Risk of Mistakes:</strong> Fewer moving parts = less user error.</li>
-</ul>
+- 🔁 **One-Time Setup** – Spoof once and you're done.
+- 🔐 **Deep-Level Spoofing** – BIOS UUID, MAC address, disk volumes, motherboard serial, GPU keys & more.
+- 🛡️ **Bypasses All Major Anti-Cheats** – Supports **EAC**, **BattlEye**, **Vanguard**, **Ricochet**.
+- 🎮 **Compatible with Popular Games** – Fortnite, Rust, Valorant, Warzone, Apex Legends, PUBG, etc.
+- 🧩 **Safe & Reversible** – Creates a system restore point automatically.
+- 💻 **Fully Offline** – No pingback, no account linking, no tracking.
 
-<hr />
+---
 
-<h2>⚙️ How It Works</h2>
-<p>Our permanent HWID spoofer modifies identifiers such as:</p>
-<ul>
-    <li>Motherboard Serial Number</li>
-    <li>Disk Drive & Volume IDs</li>
-    <li>BIOS UUID</li>
-    <li>MAC Addresses</li>
-    <li>GPU Serial and Registry Keys</li>
-</ul>
-<p>These changes are saved at the system level, making your PC look completely new to anti-cheat systems even after shutdowns or reinstalls.</p>
+## ✅ Supported Platforms
 
-<h2>✅ Supported Platforms</h2>
-<ul>
-    <li>Windows 10 & 11 (21H2 and above)</li>
-    <li>Intel and AMD Systems</li>
-    <li>UEFI and Legacy BIOS</li>
-</ul>
+- Windows 10 & 11 (21H2 and newer)
+- Intel & AMD Processors
+- UEFI & Legacy BIOS
 
-<hr />
+---
 
-<h2>🛡️ Safety First</h2>
-<ul>
-    <li>Creates automatic restore points before any permanent change.</li>
-    <li>Completely local — no data leaves your PC.</li>
-    <li>Tested on thousands of systems without a single hardware issue.</li>
-</ul>
+## 🔬 How Does It Work?
 
-<hr />
+Anti-cheats track your device by collecting identifiers like:
 
-<h2>🎥 Setup Tutorial & Demo <img src="https://www.youtube.com/favicon.ico" alt="YouTube Logo" style="vertical-align: middle; margin-left: 5px;"></h2>
-<p align="center">
-    <a href="https://www.youtube.com/watch?v=b8XyEwxpccE" target="_blank">
-        <img src="https://img.youtube.com/vi/b8XyEwxpccE/0.jpg" alt="Permanent Spoofer YouTube Guide Thumbnail">
-    </a>
-</p>
+- 🧬 **BIOS UUID**
+- 💽 **Hard Drive Serials**
+- 📶 **MAC Addresses**
+- 🧠 **Motherboard ID**
+- 🎮 **GPU Registry Fingerprints**
 
-<hr />
+Our permanent spoofer changes them at the system level, so even after you restart or reinstall, your HWID remains spoofed.
 
-<h2>📌 FAQs</h2>
+> No launchers, no extra steps — just spoof once and forget about it.
 
-<h3>Is it really permanent?</h3>
-<p>Yes — spoofed values stay spoofed across restarts, reinstalls, and Windows updates. You can revert manually if needed.</p>
+---
 
-<h3>Can I undo the changes?</h3>
-<p>Absolutely. A restore point is created before installation so you can revert your system safely.</p>
+## 🚩 Why Go Permanent?
 
-<h3>Does it work on every anti-cheat?</h3>
-<p>Yes. It bypasses EAC, BE, Vanguard, and other systems by replacing every HWID fingerprint they rely on.</p>
+- ✅ No re-spoofing after restarts
+- ✅ Prevents detection from persistent anti-cheat systems
+- ✅ Saves time and reduces risk of forgetting to spoof
+- ✅ Ideal for daily players, streamers, and long-term accounts
 
-<h3>Is it safe?</h3>
-<p>Yes. Our spoofer is clean, tested, and only changes values relevant to bans. It will not damage your hardware or system.</p>
+---
 
-<hr />
+## 📺 Installation Video
 
-<h2>💬 Get Support & Updates</h2>
-<p>Join our Discord or support forum for help, updates, and new spoofing methods as anti-cheats evolve. Our community is active, responsive, and ready to help you stay unbanned for good.</p>
+[![Permanent Spoofer Setup Tutorial](https://img.youtube.com/vi/b8XyEwxpccE/0.jpg)](https://www.youtube.com/watch?v=b8XyEwxpccE)
 
-<hr />
+Watch the full video guide to see step-by-step setup, verification, and usage across multiple games.
 
-<h2>⚠️ Disclaimer</h2>
-<p>This permanent HWID spoofer is provided for educational and research purposes only. Use at your own risk. We are not affiliated with any game developers or anti-cheat services mentioned.</p>
+---
+
+## 💡 Tips for Staying Undetected
+
+- ⚙️ **Always spoof before launching a game or client**
+- 📦 **Use a clean Windows user profile (fresh account or reinstall)**
+- 🔕 **Never talk about spoofing in-game or in public chats**
+- 📥 **Keep your tool updated with the latest anti-cheat changes**
+- ❌ **Avoid cheating while spoofed — you're less likely to be flagged**
+
+---
+
+## ❓ FAQ
+
+### Is this really permanent?
+
+> Yes — your new HWID stays spoofed even after reboots, reinstalls, and Windows updates.
+
+---
+
+### Can I undo it?
+
+> Yes. The spoofer creates a system restore point before making changes, so you can revert safely at any time.
+
+---
+
+### Does this work for all games?
+
+> It works for any game using hardware bans via anti-cheats like:
+- Easy Anti-Cheat (EAC)
+- BattlEye (BE)
+- Vanguard (Valorant)
+- Ricochet (Warzone)
+
+---
+
+### Is it detectable?
+
+> Our tool is regularly updated and stays ahead of detection signatures. It avoids memory-based injection, so it's safer than cheat-based spoofers.
+
+---
+
+### Will this break my PC?
+
+> No. The tool is safe and tested across thousands of systems. Changes are reversible.
+
+---
+
+## 🧑‍💻 Community & Support
+
+Need help? Want the latest patches or updates?
+
+👉 Join our Discord  
+👉 Follow our GitHub for release notifications  
+👉 Open issues for bugs or install help  
+
+We’re here to help you stay in the game.
+
+---
+
+## ⚠️ Disclaimer
+
+> This software is for **educational and research purposes only**.  
+> We are not affiliated with Epic Games, Riot Games, Facepunch, or any game developer.  
+> Use at your own risk. Violating a game's terms of service can result in account bans.
+
+---
